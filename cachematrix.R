@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-#creates a matrix and stores
+#Creates a matrix and stores
 makeCacheMatrix <- function(x = matrix()) {
     inv <- NULL
     set <- function(y){
